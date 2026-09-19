@@ -1,0 +1,12 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+numpy-financial>=1.0
+
+# Optional: only needed for the live LLM synthesis path in memo_synthesis.py.
+# The toolkit runs fully offline (template mode) without this installed.
+anthropic>=0.40
+
+# Optional: only needed to run notebooks/case_walkthrough.ipynb and tests/
+jupyter>=1.0
+pytest>=7.4
