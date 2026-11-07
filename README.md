@@ -1,5 +1,7 @@
 # market-entry-case-toolkit
 
+[![CI](https://github.com/rxj0102/market-entry-case-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/rxj0102/market-entry-case-toolkit/actions/workflows/ci.yml)
+
 A hypothesis-led market-entry strategy toolkit, built the way a management-consulting
 case team would frame and solve the question — not a finance model, and not generic
 data science.
